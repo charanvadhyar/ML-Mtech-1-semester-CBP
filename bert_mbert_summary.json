@@ -1,0 +1,14 @@
+{
+  "model": "mbert",
+  "n_train": 6000,
+  "n_test": 1000,
+  "epochs": 3,
+  "test_accuracy": 0.794,
+  "n_shap_instances": 150,
+  "mean_language_segment_shap_pct": {
+    "EN_shap_pct": 54.28,
+    "TA-script_shap_pct": 13.11,
+    "TANGLISH?_shap_pct": 20.8,
+    "NOISE_shap_pct": 11.81
+  }
+}

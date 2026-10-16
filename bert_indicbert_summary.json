@@ -1,0 +1,14 @@
+{
+  "model": "indicbert",
+  "n_train": 8000,
+  "n_test": 1000,
+  "epochs": 5,
+  "test_accuracy": 0.711,
+  "n_shap_instances": 150,
+  "mean_language_segment_shap_pct": {
+    "EN_shap_pct": 47.17,
+    "TA-script_shap_pct": 14.41,
+    "TANGLISH?_shap_pct": 35.0,
+    "NOISE_shap_pct": 3.42
+  }
+}

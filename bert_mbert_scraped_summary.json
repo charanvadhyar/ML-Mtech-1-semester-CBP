@@ -1,0 +1,36 @@
+{
+  "model": "mbert",
+  "n_instances": 160,
+  "overall_mean_pct": {
+    "EN_shap_pct": 56.55,
+    "TA-script_shap_pct": 10.47,
+    "TANGLISH?_shap_pct": 18.57,
+    "NOISE_shap_pct": 14.41
+  },
+  "by_video": {
+    "EN_shap_pct": {
+      "LnmF2vX8Dfo": 48.36,
+      "SFrKBnj13qI": 58.6,
+      "iOMvWcMo8cA": 57.9,
+      "jpvb4l2RIXU": 61.33
+    },
+    "TA-script_shap_pct": {
+      "LnmF2vX8Dfo": 15.6,
+      "SFrKBnj13qI": 8.51,
+      "iOMvWcMo8cA": 11.31,
+      "jpvb4l2RIXU": 6.45
+    },
+    "TANGLISH?_shap_pct": {
+      "LnmF2vX8Dfo": 22.79,
+      "SFrKBnj13qI": 20.54,
+      "iOMvWcMo8cA": 14.1,
+      "jpvb4l2RIXU": 16.87
+    },
+    "NOISE_shap_pct": {
+      "LnmF2vX8Dfo": 13.25,
+      "SFrKBnj13qI": 12.35,
+      "iOMvWcMo8cA": 16.68,
+      "jpvb4l2RIXU": 15.36
+    }
+  }
+}
