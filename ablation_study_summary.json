@@ -2,25 +2,25 @@
   {
     "category": "mask_EN",
     "n_comments_affected": 150,
-    "mean_abs_delta_P": 0.0484,
-    "pct_predictions_flipped": 17.33
+    "mean_abs_delta_P": 0.0492,
+    "pct_predictions_flipped": 19.33
   },
   {
     "category": "mask_TA-script",
     "n_comments_affected": 9,
-    "mean_abs_delta_P": 0.0269,
+    "mean_abs_delta_P": 0.0212,
     "pct_predictions_flipped": 0.0
   },
   {
     "category": "mask_TANGLISH",
     "n_comments_affected": 33,
-    "mean_abs_delta_P": 0.016,
+    "mean_abs_delta_P": 0.0157,
     "pct_predictions_flipped": 3.03
   },
   {
     "category": "mask_ENTITY",
     "n_comments_affected": 170,
-    "mean_abs_delta_P": 0.0005,
+    "mean_abs_delta_P": 0.0014,
     "pct_predictions_flipped": 0.0
   }
 ]

@@ -1,0 +1,52 @@
+[
+  {
+    "lang": "english",
+    "n_articles": 359,
+    "n_with_marker": 18,
+    "pct_flagged_fake_with_marker": 50.0,
+    "pct_flagged_fake_without": 10.9,
+    "gap_points": 39.1,
+    "overall_pct_flagged_fake": 12.8,
+    "mean_p_fake": 0.237
+  },
+  {
+    "lang": "hindi",
+    "n_articles": 110,
+    "n_with_marker": 33,
+    "pct_flagged_fake_with_marker": 12.1,
+    "pct_flagged_fake_without": 1.3,
+    "gap_points": 10.8,
+    "overall_pct_flagged_fake": 4.5,
+    "mean_p_fake": 0.057
+  },
+  {
+    "lang": "malayalam",
+    "n_articles": 22,
+    "n_with_marker": 0,
+    "pct_flagged_fake_with_marker": null,
+    "pct_flagged_fake_without": 72.7,
+    "gap_points": null,
+    "overall_pct_flagged_fake": 72.7,
+    "mean_p_fake": 0.666
+  },
+  {
+    "lang": "tamil",
+    "n_articles": 50,
+    "n_with_marker": 7,
+    "pct_flagged_fake_with_marker": 42.9,
+    "pct_flagged_fake_without": 27.9,
+    "gap_points": 15.0,
+    "overall_pct_flagged_fake": 30.0,
+    "mean_p_fake": 0.397
+  },
+  {
+    "lang": "telugu",
+    "n_articles": 46,
+    "n_with_marker": 4,
+    "pct_flagged_fake_with_marker": 0.0,
+    "pct_flagged_fake_without": 2.4,
+    "gap_points": -2.4,
+    "overall_pct_flagged_fake": 2.2,
+    "mean_p_fake": 0.028
+  }
+]

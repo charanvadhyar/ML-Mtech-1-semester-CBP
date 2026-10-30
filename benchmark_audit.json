@@ -1,0 +1,62 @@
+[
+  {
+    "language": "english",
+    "n_rows": 36674,
+    "full_accuracy": 0.9444,
+    "length_only_accuracy": 0.6577,
+    "length_explains_pct_of_gain": 35.5,
+    "mean_chars_fake": 92.0,
+    "mean_chars_real": 75.0,
+    "marker_pct_fake": 56.1,
+    "marker_pct_real": 1.2,
+    "accuracy_markers_stripped": 0.9222
+  },
+  {
+    "language": "hindi",
+    "n_rows": 14908,
+    "full_accuracy": 0.9873,
+    "length_only_accuracy": 0.5148,
+    "length_explains_pct_of_gain": 3.0,
+    "mean_chars_fake": 1172.0,
+    "mean_chars_real": 1188.0,
+    "marker_pct_fake": 98.5,
+    "marker_pct_real": 27.4,
+    "accuracy_markers_stripped": 0.9849
+  },
+  {
+    "language": "malayalam",
+    "n_rows": 4838,
+    "full_accuracy": 0.7851,
+    "length_only_accuracy": 0.5899,
+    "length_explains_pct_of_gain": 31.5,
+    "mean_chars_fake": 116.0,
+    "mean_chars_real": 69.0,
+    "marker_pct_fake": 0.2,
+    "marker_pct_real": 0.0,
+    "accuracy_markers_stripped": 0.7872
+  },
+  {
+    "language": "tamil",
+    "n_rows": 5784,
+    "full_accuracy": 0.8755,
+    "length_only_accuracy": 0.7519,
+    "length_explains_pct_of_gain": 67.1,
+    "mean_chars_fake": 110.0,
+    "mean_chars_real": 86.0,
+    "marker_pct_fake": 7.6,
+    "marker_pct_real": 0.9,
+    "accuracy_markers_stripped": 0.8738
+  },
+  {
+    "language": "telugu",
+    "n_rows": 9590,
+    "full_accuracy": 0.9969,
+    "length_only_accuracy": 0.5334,
+    "length_explains_pct_of_gain": 6.7,
+    "mean_chars_fake": 1166.0,
+    "mean_chars_real": 1192.0,
+    "marker_pct_fake": 97.9,
+    "marker_pct_real": 14.6,
+    "accuracy_markers_stripped": 0.9927
+  }
+]

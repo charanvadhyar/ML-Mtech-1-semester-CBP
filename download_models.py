@@ -1,20 +1,4 @@
-"""
-Downloads mBERT and IndicBERT to a local folder, so the SHAP pipeline can
-load them from disk afterwards with no further network access needed.
 
-Run this directly on your own machine (not through the Claude session) --
-your machine's normal internet connection can reach huggingface.co even
-though the Claude sandbox's network policy blocks it.
-
-ai4bharat/indic-bert is a *gated* HF repo: you need an HF account that has
-been granted access to it (https://huggingface.co/ai4bharat/indic-bert ->
-"Agree and access repository" if you haven't already), and a token with
-at least read access. This script will prompt you to paste that token
-the first time it needs it.
-
-Get a token at: https://huggingface.co/settings/tokens (a "Read" token is
-enough).
-"""
 import os
 
 os.environ.setdefault("HF_HOME", os.path.join(os.path.dirname(__file__), "hf_cache"))

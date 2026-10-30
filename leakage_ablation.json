@@ -1,0 +1,12 @@
+{
+  "hindi": {
+    "original": 0.9873,
+    "markers_stripped": 0.9876,
+    "drop": -0.0003
+  },
+  "telugu": {
+    "original": 0.9969,
+    "markers_stripped": 0.9927,
+    "drop": 0.0042
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "task": "DravidianLangTech EACL-2024 Task 1, Malayalam code-mixed fake news",
+  "n_train": 3256,
+  "n_dev": 815,
+  "n_test": 1019,
+  "dev_accuracy": 0.7644,
+  "test_accuracy": 0.7821,
+  "test_macro_f1": 0.7795,
+  "vocab_tag_counts": {
+    "ML-script": 933,
+    "EN": 330,
+    "MANGLISH?": 217,
+    "NOISE": 20
+  },
+  "mean_language_segment_shap_pct": {
+    "EN_shap_pct": 26.940000534057617,
+    "ML-script_shap_pct": 60.38999938964844,
+    "MANGLISH?_shap_pct": 12.1899995803833,
+    "NOISE_shap_pct": 0.49000000953674316
+  }
+}

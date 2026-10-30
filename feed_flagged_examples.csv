@@ -1,0 +1,26 @@
+lang,p_fake,has_marker,title,source,top_tokens
+english,0.997,False,Did the Pandavas come here? Experts revisit a site steeped in legend,indianexpress.com,"did(+4.336), here(+2.040), the(+1.065), in(-0.212)"
+english,0.996,True,SEBI cautions investors against fraudulent stock-tip WhatsApp groups,www.thehindu.com,"false(+3.703), claims(+1.174), the(+0.879), this(+0.544), these(+0.293)"
+english,0.987,False,‘You stand for what is true’: Priyanka Gandhi as son Raihan’s protest photographs taken down - The Indian Express,news.google.com,"true(+1.874), photos(+1.757), the(+0.839), is(+0.729), as(+0.423)"
+english,0.98,True,Chhattisgarh Police issue show-cause notice to SP Ankita Sharma after video of AK-47 firing goes viral,www.thehindu.com,"viral(+2.168), video(+1.808), media(+0.627), the(+0.539), police(-0.248)"
+english,0.975,False,"‘Where did the 56-inch chest go?’: In Goa, Rahul targets Modi, Shah, CEC",indianexpress.com,"did(+4.431), the(+0.920), in(-0.112)"
+hindi,0.912,True,सऊदी अरब में बांग्लादेशी महिला कामगार कितनी सुरक्षित हैं? - BBC,news.google.com,"फैक्ट(+2.116), हैं(+0.710), चेक(+0.640), वीडियो(+0.481)"
+hindi,0.859,False,Gold Price Prediction: How low can gold prices go? Expert reveals outlook amid global uncertainty - ET Now,news.google.com,com(+0.842)
+hindi,0.672,True,दिल्ली पुलिस ने कंटेंट क्रिएटर आमिर शौकीन को गिरफ्तार किया:त्रिपुरा के युवक पर नस्लीय कमेंट का मामला; पीड़ित बोला- मैंने उसे माफ किया,www.bhaskar.com,"वायरल(+2.263), मीडिया(+0.752), वीडियो(+0.729), बताया(-0.576), है(-0.491)"
+hindi,0.582,True,भरूच की 700 साल पुरानी जुमा मस्जिद की जगह क्या कभी जैन मंदिर था? कोर्ट पहुंचा विवाद,feeds.bbci.co.uk,"दावा(+1.258), क्या(+0.617), लेकर(-0.495)"
+hindi,0.512,True,"दावा- CM मान को दिल्ली एयरपोर्ट पर 3 घंटे रोका:₹50,000 का चालान काटा, फ्रांस से लौटे थे; AAP बोली- केंद्र का अहंकार टूटना चाहिए",www.bhaskar.com,"2017(+3.425), पोस्ट(+0.969), दावा(+0.894), 10(+0.879), लेकर(-0.442)"
+malayalam,0.963,False,ഇളക്കിമറിക്കാൻ മഞ്ഞപ്പട: ഫ്രാൻസിൽനിന്ന് യൂറോപ്പിലാകെ കാട്ടുതീ പോലെ പടർന്ന് വിദ്യാർഥിപ്രക്ഷോഭം - Manorama Online,news.google.com,"news(+2.096), വരെ(+0.728), അമേരിക്ക(+0.722), kerala(-0.579), പോലെ(+0.567)"
+malayalam,0.941,False,പുതിയ ഗവർണർ ഇന്ന്‌ ചുമതലയേൽക്കും - Deshabhimani,news.google.com,"news(+2.096), ഇന്ന്(+0.537), വലിയ(+0.423)"
+malayalam,0.902,False,വെടിക്കെട്ട് ഫിഫ്റ്റിയുമായി സഞ്ജു ഷോ; ആദ്യ ടി20യിൽ കിവീസിനെ വീഴ്ത്തി ഇന്ത്യ - Indian Express Malayalam,news.google.com,"news(+2.043), ഇന്ത്യ(+0.478)"
+malayalam,0.886,False,"കിം ജോങ് ഉൻ മരിച്ചു? മകൾക്കു പകരം സഹോദരി ഭരണം ഏറ്റെടുത്തു? ചൈന 9,000 സൈനികരെ അയച്ചു? - Mangalam",news.google.com,"ചൈന(+3.137), ഭരണം(-1.587), മരിച്ചു(+0.390), ഉത്തര(+0.371)"
+malayalam,0.867,False,"CJP നേതാക്കൾക്ക് ക്രൈം ബ്രാഞ്ച് നോട്ടീസ്; സൗരവ് ദാസ്, അശുതോഷ് റാങ്ക, അജിങ്ക്യ ഷിൻഡെ എന്നിവർക്ക് നോട്ടീസ് നൽകി - TwentyFour News",news.google.com,"news(+2.096), തന്നെ(+0.230), പി(-0.177)"
+tamil,0.996,False,"இலங்கை: ஒரு புறம் 19 இரானிய கப்பல்கள், மறுபுறம் அமெரிக்க போர்க்கப்பல் - திரைமறைவில் ராஜதந்திர நகர்வுகள்",feeds.bbci.co.uk,"மற்றும்(+2.417), 19(+1.195), அமெரிக்க(+0.998), ஒரு(+0.874)"
+tamil,0.991,False,"புகைப்படத்தில் உங்கள் முகம் பார்த்தே நோயின் தீவிரம், ஆயுளை கூறும் 'செயற்கை நுண்ணறிவு'",feeds.bbci.co.uk,"என்று(+2.696), உள்ளது(+1.152), பாதிப்பு(-1.123), உங்கள்(+1.053), அமெரிக்க(+0.939), என்பதைக்(+0.098)"
+tamil,0.988,False,வங்கதேசத்தை சேர்ந்த இருவருக்கு செளதி அரேபியாவில் மரண தண்டனை நிறைவேற்றம் - விடை தெரியாத முக்கியக் கேள்விகள்,feeds.bbci.co.uk,"மற்றும்(+2.809), உள்ள(+1.692)"
+tamil,0.985,False,இந்தியாவில் ஜென் ஸி அணுகுமுறையால் மாறும் சூழல் அரசியல் மாற்றத்திற்கு வித்திடுமா?,feeds.bbci.co.uk,"மற்றும்(+2.928), அவர்கள்(+1.335)"
+tamil,0.982,True,ஏஐயைப் பயன்படுத்தி நேர்த்தியாக உருவாக்கப்படும் போலி இணையதளங்கள் - மோசடிகளில் இருந்து தப்பிக்க உதவும் 3 வழிகள்,feeds.bbci.co.uk,"மற்றும்(+3.052), போலி(+0.555), இருந்து(+0.365), பணம்(+0.168)"
+telugu,0.531,False,Sanju Samson: 226 పరుగుల ఛేజ్ వెనుక అసలు ప్లాన్ ఇదే.. సంజూ శాంసన్ సంచలన కామెంట్స్ - Asianet News Telugu,news.google.com,లేదు(+3.800)
+telugu,0.428,False,‘ప్లాన్ లేదు.. ఏమీ లేదు; ఆడుకుంటూ పోయామంతే’,www.sakshi.com,లేదు(+3.931)
+telugu,0.084,True,Video: బౌండరీ లైన్‌లో పాక్ ఫీల్డర్లను తలపించిన సాంట్నర్-ఫిలిప్స్.. షాకింగ్ వీడియో చూశారా.? - TV9 Telugu,news.google.com,వీడియో(+3.001)
+telugu,0.081,True,Jailer 2 Collections: ‘జైలర్ 2’ ఆల్‌టైమ్ రికార్డ్.. కోలీవుడ్ కలను రజనీకాంత్ ఈసారైనా నెరవేరుస్తారా? - Samayam Telugu,news.google.com,"వైరల్(+3.842), కు(-0.776)"
+telugu,0.052,False,ఇరాన్‌ మాస్టర్‌ప్లాన్‌.. ఎన్నికల వేళ ట్రంప్‌ ఉక్కిరిబిక్కిరి! - Sakshi,news.google.com,లేదు(+2.005)

@@ -1,0 +1,56 @@
+{
+  "n_languages": 5,
+  "pearson_r": 0.9151,
+  "pearson_p": 0.0293,
+  "spearman_rho": 1.0,
+  "spearman_p_exact_two_tailed": 0.0167,
+  "permutation_orderings": 120,
+  "note": "scipy's asymptotic Spearman p is invalid at n=5; the exact permutation value is reported instead.",
+  "per_language": [
+    {
+      "lang": "english",
+      "train_words": 13.5,
+      "feed_words": 32.3,
+      "shift_ratio": 2.4,
+      "length_only_acc": 0.6577,
+      "longer_means_fake": true,
+      "pct_real_news_flagged_fake": 12.8
+    },
+    {
+      "lang": "hindi",
+      "train_words": 227.1,
+      "feed_words": 309.1,
+      "shift_ratio": 1.36,
+      "length_only_acc": 0.5148,
+      "longer_means_fake": false,
+      "pct_real_news_flagged_fake": 4.5
+    },
+    {
+      "lang": "malayalam",
+      "train_words": 11.3,
+      "feed_words": 64.5,
+      "shift_ratio": 5.71,
+      "length_only_acc": 0.5899,
+      "longer_means_fake": true,
+      "pct_real_news_flagged_fake": 72.7
+    },
+    {
+      "lang": "tamil",
+      "train_words": 11.2,
+      "feed_words": 51.5,
+      "shift_ratio": 4.6,
+      "length_only_acc": 0.7519,
+      "longer_means_fake": true,
+      "pct_real_news_flagged_fake": 30.0
+    },
+    {
+      "lang": "telugu",
+      "train_words": 141.2,
+      "feed_words": 38.6,
+      "shift_ratio": 0.27,
+      "length_only_acc": 0.5334,
+      "longer_means_fake": false,
+      "pct_real_news_flagged_fake": 2.2
+    }
+  ]
+}

@@ -29,19 +29,33 @@ import numpy as np
 import pandas as pd
 from xgboost import XGBClassifier
 
+import os as _os
+def _find(*names):
+    """Resolve a data file whether this runs on the user's machine (beside
+    the script) or in the Claude sandbox (staged upload paths)."""
+    _here = _os.path.dirname(_os.path.abspath(__file__))
+    for n in names:
+        for p in (_os.path.join(_here, n), n,
+                  _os.path.join("/mnt/user-data/uploads", n),
+                  _os.path.join("/mnt/user-data/uploads/MLSHAP", n)):
+            if _os.path.exists(p):
+                return p
+    raise SystemExit("could not find any of %s" % (names,))
+
+
 csv.field_size_limit(sys.maxsize)
 
 model = XGBClassifier()
 model.load_model("classical_xgb_model.json")
 vectorizer = joblib.load("classical_tfidf_vectorizer.joblib")
 
-comments = pd.read_csv("/mnt/user-data/uploads/comments.csv")
+comments = pd.read_csv(_find("comments.csv"))
 comments["text"] = comments["text"].fillna("")
 
-tagged = pd.read_csv("/mnt/user-data/uploads/MLSHAP/output/tanglish_tagged.csv", engine="python")
+tagged = pd.read_csv(_find("output/tanglish_tagged.csv", "tanglish_tagged.csv"), engine="python")
 tagged = tagged.iloc[: len(comments)].reset_index(drop=True)
 
-with open("/mnt/user-data/uploads/entity_exclusion_list.json") as f:
+with open(_find("entity_exclusion_list.json")) as f:
     entity_data = json.load(f)
 ENTITY_WORDS = set(entity_data["combined_exclusion_list"])
 # also split multi-word entities into their component words for whole-word masking

@@ -1,5 +1,5 @@
 category,n_comments_affected,mean_abs_delta_P,pct_predictions_flipped
-mask_EN,150,0.0484,17.33
-mask_TA-script,9,0.0269,0.0
-mask_TANGLISH,33,0.016,3.03
-mask_ENTITY,170,0.0005,0.0
+mask_EN,150,0.0492,19.33
+mask_TA-script,9,0.0212,0.0
+mask_TANGLISH,33,0.0157,3.03
+mask_ENTITY,170,0.0014,0.0

@@ -1,0 +1,6 @@
+lang,train_words,feed_words,shift_ratio,length_only_acc,longer_means_fake,pct_real_news_flagged_fake
+malayalam,11.3,64.5,5.71,0.5899,True,72.7
+tamil,11.2,51.5,4.6,0.7519,True,30.0
+english,13.5,32.3,2.4,0.6577,True,12.8
+hindi,227.1,309.1,1.36,0.5148,False,4.5
+telugu,141.2,38.6,0.27,0.5334,False,2.2
